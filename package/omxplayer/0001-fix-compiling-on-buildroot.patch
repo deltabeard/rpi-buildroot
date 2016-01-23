@@ -2,8 +2,8 @@ Fix building with buildroot
 
 Signed-off-by: Mahyar Koshkouei <deltabeard@users.noreply.github.com>
 
---- /mnt/steam/buildroot/omxplayer-f5440845cdd91e7816de1937c30057f58c10c268-orig/Makefile	2015-12-05 16:11:17.000000000 +0000
-+++ omxplayer-f5440845cdd91e7816de1937c30057f58c10c268/Makefile	2016-01-23 09:25:36.366235294 +0000
+--- a/Makefile	2015-12-05 16:11:17.000000000 +0000
++++ b/Makefile	2016-01-23 09:25:36.366235294 +0000
 @@ -1,10 +1,8 @@
 -include Makefile.include
 -
